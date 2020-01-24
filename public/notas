@@ -1,0 +1,5 @@
+1 - Componentes: Bloco isolado de Html, CSS e JS, o qual não interfere no restante da aplicação.
+
+2 - Propriedade: Informaçãoes que um componente Pai passa para o componente filho
+
+3 - Estado: Informações mantidas pelo componente (lembrar: Imutabilidade)  
